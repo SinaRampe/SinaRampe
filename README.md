@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinaRampe
 - 👀 I’m interested in the pharmaceutical field, Digital Health, Data Science and AI.
-- 🌱 I’m currently learning Python,SQL, Statistics, Machine Learning and how datafication improves patient care.
+- 🌱 I’m currently learning Python, SQL, Statistics, Machine Learning and how datafication improves patient care.
 - 💞️ I´d love to connect with pharmacists and other healthcare professionals, who are working in the area of Data Driven Healthcare.
 - 📫 How to reach me: 
 
