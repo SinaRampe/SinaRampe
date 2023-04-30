@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SinaRampe
-- 👀 I’m interested in the pharmaceutical field, Digital Health, Data Science and AI.
-- 🌱 I’m currently learning Python, SQL, Statistics, Machine Learning and how datafication improves patient care.
-- 💞️ I´d love to connect with pharmacists and other healthcare professionals, who are working in the area of Data Driven Healthcare.
-- 📫 How to reach me: sinarampe@gmail.com
+- 👀 I’m interested in Digital Health and GLLMs.
+- 🤗 I´d love to connect with pharmacists and other healthcare professionals, who are working in the area of Data Driven Healthcare.
+- 📫 How to reach me: sinarampe@gmail.com or https://www.linkedin.com/in/sina-rampe/
 
 <!---
 SinaRampe/SinaRampe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
