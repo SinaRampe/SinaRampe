@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SinaRampe
 - 👀 I’m interested in Digital Health, Generative AI, Autism and Personalized Medicine.
-- 🌱 I am currently working on gathering knowledge about autism, with a focus on health. 
 - 💬 I always enjoy exchanging ideas on my special interest topics!
 - 📫 How to reach me: https://www.linkedin.com/in/sina-rampe/
 
