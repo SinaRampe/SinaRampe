@@ -16,15 +16,6 @@ Open to work with community pharmacies and mid-sized pharma companies on complia
 - Talks: AI in drug information; neurodivergence
 - Active in the AI-in-healthcare community
 
-### Contact & Channels
-
-| Channel | Address |
-| --- | --- |
-| Website | https://sinarampe.de |
-| LinkedIn | https://www.linkedin.com/in/sina-rampe/ |
-| Email | sina@sinarampe.de |
-
-
 <!---
 SinaRampe/SinaRampe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
